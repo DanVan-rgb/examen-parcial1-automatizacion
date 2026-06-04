@@ -1,0 +1,5 @@
+#1. Git init: Inicializa un nuevo repositorio Git local en el directorio actual
+#1. Git clone: Crea una copia local de un repositorio remoto
+#3. Git add: Agrega los cambios del direcorio de trabajo al área de preparación.
+#4. Git commit: Guarda de manera permanente las capturas de los cambios en el hisorial del repositorio
+#5. Git push: Sube los commits de la rama local al repositorio remoto
